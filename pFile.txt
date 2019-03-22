@@ -1,2 +1,7 @@
 Hello to world by pruthvi
+<<<<<<< Updated upstream
 test  tes t conflit
+=======
+
+
+
